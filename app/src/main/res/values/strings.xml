@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NetworkMonitor</string>
+
+    <string name="network_status">Network Status:</string>
+    <string name="wifi_status">WiFi Status:</string>
+    <string name="cellular_status">Cellular Status:</string>
+    <string name="network_info">Network Info:</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="wifi_state_disabled">Disabled</string>
+    <string name="wifi_state_disabling">Disabling</string>
+    <string name="wifi_state_enabled">Enabled</string>
+    <string name="wifi_state_enabling">Enabling</string>
+    <string name="wifi_state_unknown">Unknown</string>
+
+    <string name="cellular_state_emergency_only">Emergency Only</string>
+    <string name="cellular_state_in_service">In Service</string>
+    <string name="cellular_state_out_of_service">Out of Service</string>
+    <string name="cellular_state_power_off">Power Off</string>
+    <string name="cellular_state_unknown">Unknown</string>
+
+    <string name="cellular_type_unknown">Unknown</string>
+    <string name="cellular_type_gsm">GSM</string>
+    <string name="cellular_type_cdma">CDMA</string>
+
+</resources>
